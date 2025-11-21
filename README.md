@@ -1,100 +1,104 @@
-<!--
-    Place this README.md in a repository named exactly as your GitHub username to show on your profile page.
--->
+<!-- Place this README.md in a repository named exactly as your GitHub username -->
 
-<h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="center">B.Tech CSE Student | Cybersecurity Enthusiast | Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#ff6f61;">Rishabh</span></h1>
+<h3 align="center" style="color:#ff6f61;">B.Tech CSE Student | Cybersecurity Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="mailto:rishabh.public.mail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-rishabh.public.mail%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
+  <a href="mailto:rishabh.public.mail@gmail.com" target="_blank" title="Email Me">
+    <img src="https://img.shields.io/badge/Email-rishabh.public.mail%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/rishabh-joshi-992834326" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rishabh-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rishabh-joshi-992834326" target="_blank" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Rishabh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Rishabh4769" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-rishabh-black?style=flat-square&logo=github" alt="GitHub Badge" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Rishabh4769" target="_blank" title="GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-rishabh-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech Computer Science & Engineering student at Darshan University, India.
-- 🔍 Passionate about Cybersecurity, Ethical Hacking, and Full Stack Development.
-- 💻 Proficient in Java, Python, PHP, JavaScript, HTML/CSS, SQL, and Shell scripting.
-- 🌐 Experienced in web technologies: Bootstrap, Flask, React basics.
-- 🔐 Developing expertise in Mobile & IoT Security, Penetration Testing, and Network Security.
-- ⚙️ Continuously building projects on Android security apps, API development, and web systems.
+
+- 🎓 **B.Tech Computer Science & Engineering** student at Darshan University, India.  
+- 🔍 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Full Stack Development**.  
+- 💻 Skilled in:  
+  <kbd>Java</kbd> <kbd>Python</kbd> <kbd>PHP</kbd> <kbd>JavaScript</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>SQL</kbd> <kbd>Shell</kbd>  
+- 🌐 Experienced in:  
+  <kbd>Bootstrap</kbd> <kbd>Flask</kbd> <kbd>React (Basics)</kbd>  
+- 🔐 Specialized in Mobile & IoT Security, Penetration Testing, Network Security.  
+- ⚙️ Building: Android security apps, API systems, secured notes & communication.
 
 ---
 
 ### 🛠️ Technical Skills
 
-<table align="center" width="80%" cellpadding="10">
-  <tr align="center">
-    <td><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><br>Java</td>
-    <td><img src="https://img.icons8.com/color/48/000000/python.png"/><br>Python</td>
-    <td><img src="https://img.icons8.com/color/48/000000/php-logo.png"/><br>PHP</td>
-    <td><img src="https://img.icons8.com/color/48/000000/javascript.png"/><br>JavaScript</td>
-    <td><img src="https://img.icons8.com/color/48/000000/html-5.png"/><br>HTML5</td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://img.icons8.com/color/48/000000/css3.png"/><br>CSS3</td>
-    <td><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><br>Bootstrap</td>
-    <td><img src="https://img.icons8.com/color/48/000000/sql.png"/><br>SQL / MongoDB</td>
-    <td><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/><br>Cybersecurity</td>
-    <td><img src="https://img.icons8.com/color/48/000000/android-os.png"/><br>Android Dev</td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://img.icons8.com/color/48/000000/linux.png"/><br>Linux</td>
-    <td><img src="https://img.icons8.com/dusk/48/000000/git.png"/><br>Git</td>
-    <td><img src="https://img.icons8.com/color/48/000000/docker.png"/><br>Docker</td>
-    <td><img src="https://img.icons8.com/color/48/000000/flask.png"/><br>Flask</td>
-    <td><img src="https://img.icons8.com/color/48/000000/rest-api.png"/><br>REST API</td>
-  </tr>
-</table>
+<div align="center">
+  <img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="36" height="36" title="Java"/> &nbsp;
+  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" width="36" height="36" title="Python"/> &nbsp;
+  <img alt="PHP" src="https://img.icons8.com/color/48/000000/php-logo.png" width="36" height="36" title="PHP"/> &nbsp;
+  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" width="36" height="36" title="JavaScript"/> &nbsp;
+  <img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" width="36" height="36" title="HTML5"/> &nbsp;
+  <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" width="36" height="36" title="CSS3"/> &nbsp;
+  <img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" width="36" height="36" title="Bootstrap"/> &nbsp;
+  <img alt="SQL" src="https://img.icons8.com/color/48/000000/sql.png" width="36" height="36" title="SQL / MongoDB"/> &nbsp;
+  <img alt="Kali Linux" src="https://img.icons8.com/color/48/000000/kali-linux.png" width="36" height="36" title="Cybersecurity"/> &nbsp;
+  <img alt="Android" src="https://img.icons8.com/color/48/000000/android-os.png" width="36" height="36" title="Android Development"/> &nbsp;
+  <img alt="Linux" src="https://img.icons8.com/color/48/000000/linux.png" width="36" height="36" title="Linux"/> &nbsp;
+  <img alt="Git" src="https://img.icons8.com/dusk/48/000000/git.png" width="36" height="36" title="Git"/> &nbsp;
+  <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png" width="36" height="36" title="Docker"/> &nbsp;
+  <img alt="Flask" src="https://img.icons8.com/color/48/000000/flask.png" width="36" height="36" title="Flask"/> &nbsp;
+  <img alt="REST API" src="https://img.icons8.com/color/48/000000/rest-api.png" width="36" height="36" title="REST API"/>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh4769&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🔍 Latest Projects
 
-- [Network Packet Sniffer](https://github.com/Rishabh4769/Graduation-Projects/Python-Projects/Packet-Sniffer) - Real-time packet capture and alert system for network security monitoring.
-- [Chatsy](https://github.com/Rzishabh4769/Chatsy) - Fully Encrypted Notes System with in built Chats, So you can chat with friend while sharing the notes.
+<table>
+  <tr>
+    <td><strong>Network Packet Sniffer</strong></td>
+    <td>Real-time packet capture and alert system for network security monitoring.</td>
+    <td><a href="https://github.com/Rishabh4769/Graduation-Projects/Python-Projects/Packet-Sniffer">View Repo</a></td>
+  </tr>
+  <tr>
+    <td><strong>Chatsy</strong></td>
+    <td>Fully Encrypted Notes System with inbuilt Chats for secure sharing.</td>
+    <td><a href="https://github.com/Rzishabh4769/Chatsy">View Repo</a></td>
+  </tr>
+</table>
 
 ---
 
-### 🎯 Goals & Learning
-
-- Master advanced penetration testing using Metasploit and custom payloads.
-- Deep dive into mobile app security and reverse engineering.
-- Learn AI integration for anomaly detection in network traffic.
-- Build full-stack applications with modern frameworks and DevOps practices.
+### 🎯 My Goals & Learning Journey
+- Master advanced penetration testing including Metasploit and custom payloads.  
+- Explore mobile app security & reverse engineering techniques.  
+- Integrate AI for anomaly detection in network security.  
+- Build full-stack apps with modern frameworks & adopt DevOps best practices.
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/rishabh-joshi-992834326" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rishabh-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/Rishabh4769" target="_blank"><img src="https://img.shields.io/badge/GitHub-rishabh-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:rishabh.public.mail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-rishabh%40email.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rishabh-joshi-992834326" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Rishabh-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Rishabh4769" target="_blank" title="GitHub"><img src="https://img.shields.io/badge/GitHub-rishabh-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:rishabh.public.mail@gmail.com" target="_blank" title="Email"><img src="https://img.shields.io/badge/Email-rishabh.public.mail%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">
+<p align="center" style="color:#999999;">
   Made with ❤️ and ☕ by Rishabh
 </p>
