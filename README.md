@@ -24,7 +24,7 @@
 - 🎓 **B.Tech Computer Science & Engineering** student at Darshan University, India.  
 - 🔍 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Full Stack Development**.  
 - 💻 Skilled in:  
-  <kbd>Java</kbd> <kbd>Python</kbd> <kbd>PHP</kbd> <kbd>JavaScript</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>SQL</kbd> <kbd>Shell</kbd>  
+  <kbd>Java</kbd> <kbd>Python</kbd> <kbd>PHP</kbd> <kbd>JavaScript</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>SQL</kbd> <kbd>Shell</kbd>  <kbd>Bash Scripting</kbd>
 - 🌐 Experienced in:  
   <kbd>Bootstrap</kbd> <kbd>Flask</kbd> <kbd>React (Basics)</kbd>  
 - 🔐 Specialized in Mobile & IoT Security, Penetration Testing, Network Security.  
