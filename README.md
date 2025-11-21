@@ -26,7 +26,7 @@
 - 💻 Skilled in:  
   <kbd>Java</kbd> <kbd>Python</kbd> <kbd>PHP</kbd> <kbd>JavaScript</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>SQL</kbd> <kbd>Shell</kbd>  <kbd>Bash Scripting</kbd>
 - 🌐 Experienced in:  
-  <kbd>Bootstrap</kbd> <kbd>Flask</kbd> <kbd>React (Basics)</kbd>  <kbd>Laravel</kbd>
+  <kbd>Bootstrap</kbd> <kbd>Flask</kbd> <kbd>Django</kbd>  <kbd>Laravel</kbd> <kbd>REST API</kbd>
 - 🔐 Specialized in Mobile & IoT Security, Penetration Testing, Network Security.  
 - ⚙️ Building: Android security apps, API systems, secured notes & communication.
 
