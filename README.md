@@ -66,7 +66,7 @@
 </div>
 
 ---
-
+<!--
 ### 🚀 Technologies I Use
 
 [![Laravel](https://img.shields.io/badge/Laravel-007ACC?style=for-the-badge&logo=laravel&logoColor=black)](#)  
@@ -78,6 +78,7 @@
 [![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](#)
 
 ---
+-->
 
 ### 📊 GitHub Profile Stats 💻
 
