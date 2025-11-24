@@ -46,6 +46,7 @@
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-007ACC?style=for-the-badge&logo=laravel&logoColor=black" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Laravel" />
     <img alt="Django" src="https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=django&logoColor=black" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Django"  />
     <img alt="Flask" src="https://img.shields.io/badge/Flask-007ACC?style=for-the-badge&logo=flask&logoColor=black" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Flask" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-007ACC?style=for-the-badge&logo=bootstrap&logoColor=black" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Flask" />
 
 </div>
 
@@ -54,7 +55,6 @@
 <div>
   <img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" width="36" height="36" title="HTML5"/> &nbsp;
   <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" width="36" height="36" title="CSS3"/> &nbsp;
-  <img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" width="36" height="36" title="Bootstrap"/> &nbsp;
   <img alt="Shell" src="https://img.icons8.com/ios-filled/50/000000/shell.png" width="36" height="36" title="Shell"/>&nbsp;
   <img alt="Bash Scripting" src="https://img.icons8.com/color/48/000000/bash.png" width="36" height="36" title="Bash Scripting"/> &nbsp;
   <img alt="REST API" src="https://img.icons8.com/color/48/000000/rest-api.png" width="36" height="36" title="REST API"/> &nbsp;
