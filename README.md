@@ -32,39 +32,37 @@
 ### 🛠️ Tech Stack
 
 #### 1. Languages
-<div>
-  <img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="36" height="36" title="Java"/> &nbsp;
-  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" width="36" height="36" title="Python"/> &nbsp;
-  <img alt="PHP" src="https://img.icons8.com/color/48/000000/php-logo.png" width="36" height="36" title="PHP"/> &nbsp;
-  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" width="36" height="36" title="JavaScript"/> &nbsp;
-  <img alt="SQL" src="https://img.icons8.com/color/48/000000/sql.png" width="36" height="36" title="SQL"/> &nbsp;
-  <img alt="NoSQL / MongoDB" src="https://img.icons8.com/color/48/000000/database.png" width="36" height="36" title="MongoDB"/>
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
 #### 2. Frameworks
-<div  style="display: flex; gap: 16px; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-007ACC?style=for-the-badge&logo=laravel&logoColor=red" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Laravel" />
-    <img alt="Django" src="https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=django&logoColor=green" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Django"  />
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-007ACC?style=for-the-badge&logo=flask&logoColor=yellow" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Flask" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-007ACC?style=for-the-badge&logo=bootstrap&logoColor=white" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Bootstrap" />
-    <!-- <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-007ACC?style=for-the-badge&logo=tailwind&logoColor=black" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Tailwind" /> -->
+<div align="center">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</div>
 
+#### 3. Tools & Platforms
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/REST_API-09f?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API"/>
+<img src="https://img.shields.io/badge/Kali_Linux-007ACC?style=for-the-badge&logoColor=white" alt="Kali Linux"/>
 </div>
 
 
-#### 3. Others
-<div>
-  <img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" width="36" height="36" title="HTML5"/> &nbsp;
-  <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" width="36" height="36" title="CSS3"/> &nbsp;
-  <img alt="Shell" src="https://img.icons8.com/ios-filled/50/000000/shell.png" width="36" height="36" title="Shell"/>&nbsp;
-  <img alt="Bash Scripting" src="https://img.icons8.com/color/48/000000/bash.png" width="36" height="36" title="Bash Scripting"/> &nbsp;
-  <img alt="REST API" src="https://img.icons8.com/color/48/000000/rest-api.png" width="36" height="36" title="REST API"/> &nbsp;
-  <img alt="Android" src="https://img.icons8.com/color/48/000000/android-os.png" width="36" height="36" title="Android Development"/> &nbsp;
-  <img alt="Linux" src="https://img.icons8.com/color/48/000000/linux.png" width="36" height="36" title="Linux"/> &nbsp;
-  <img alt="Git" src="https://img.icons8.com/dusk/48/000000/git.png" width="36" height="36" title="Git"/> &nbsp;
-  <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png" width="36" height="36" title="Docker"/> &nbsp;
-  <img alt="Kali Linux" src="https://img.icons8.com/color/48/000000/kali-linux.png" width="36" height="36" title="Cybersecurity"/>
-</div>
 
 ---
 <!--
