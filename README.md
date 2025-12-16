@@ -43,10 +43,11 @@
 
 #### 2. Frameworks
 <div  style="display: flex; gap: 16px; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-007ACC?style=for-the-badge&logo=laravel&logoColor=black" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Laravel" />
-    <img alt="Django" src="https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=django&logoColor=black" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Django"  />
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-007ACC?style=for-the-badge&logo=flask&logoColor=black" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Flask" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-007ACC?style=for-the-badge&logo=bootstrap&logoColor=black" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Flask" />
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-007ACC?style=for-the-badge&logo=laravel&logoColor=red" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Laravel" />
+    <img alt="Django" src="https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=django&logoColor=green" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Django"  />
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-007ACC?style=for-the-badge&logo=flask&logoColor=yellow" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Flask" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-007ACC?style=for-the-badge&logo=bootstrap&logoColor=white" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Bootstrap" />
+    <!-- <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-007ACC?style=for-the-badge&logo=tailwind&logoColor=black" height="40" style="background-color:#007ACC; border-radius: 4px;" title="Tailwind" /> -->
 
 </div>
 
