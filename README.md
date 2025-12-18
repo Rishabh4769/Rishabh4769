@@ -74,7 +74,7 @@
 
 ---
 
-### 📊 Activity & Stats (Glassy Dark Theme)
+### 📊 Activity & Stats
 
 <div align="center">
 
