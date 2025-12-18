@@ -28,7 +28,7 @@
 
 - 🚀 Exploring modern tech, offensive security and emerging cyber threats.  
 - 🔎 Love digging into areas others ignore: low‑level behavior, edge‑case exploits, and weird network traffic.  
-- 🎓 B.Tech CSE @ Darshan University, India – focused on security‑centric projects.  
+- 🎓 B.Tech CSE – focused on security‑centric projects.  
 - 🔐 Interests: Mobile & IoT Security, PenTesting, Network Security, Secure App Development.  
 - ⚙️ Building Android security tools, API‑driven apps, and secure communication/notes systems.
 
