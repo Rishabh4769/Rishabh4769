@@ -7,13 +7,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-0ea5e9?style=for-the-badge&logo=protonvpn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Gujarat%2C%20India-6366f1?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-22c55e?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
   <a href="mailto:rishabh.public.mail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-rishabh.public.mail%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-rishabh's mail-ef4444?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/rishabh-joshi-992834326" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Joshi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
