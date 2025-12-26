@@ -162,5 +162,5 @@
 ---
 
 <p align="center">
-  <sub>Made with <code>❤️</code> and <code>☕</code> by <strong>Rishabh</strong></sub>
+  <sub>Made with ❤️ and ☕ by <strong>Rishabh</strong></sub>
 </p>
