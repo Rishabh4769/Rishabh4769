@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Foundation-0ea5e9?style=for-the-badge&logo=protonvpn&logoColor=white" />
-  <a href="https://rishabh-joshi.netlify.app/" target="_blank">
+  <a href="https://portfolio.rishabhjoshi4205.workers.dev/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Visit-My%20Portfolio-3b82f6?style=for-the-badge" alt="Visit My Portfolio" />
   </a>
 </p>
