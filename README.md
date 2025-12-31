@@ -6,8 +6,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0ea5e9?style=for-the-badge&logo=protonvpn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-22c55e?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Foundation-0ea5e9?style=for-the-badge&logo=protonvpn&logoColor=white" />
+  <a href="https://rishabh-joshi.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Visit-My%20Portfolio-3b82f6?style=for-the-badge" alt="Visit My Portfolio" />
+  </a>
 </p>
 
 <p align="center">
