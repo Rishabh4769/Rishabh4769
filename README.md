@@ -25,9 +25,9 @@
 
 ## About Me
 
-I am a **B.Tech Computer Science & Engineering** student with a strong passion for **Information Security**. I am currently training for the **ISC2 Certified in Cybersecurity (CC)** exam (target: May 2027) while working on hands-on projects in network security and threat detection.
+I am a **B.Tech Computer Science & Engineering** student with a strong passion for **Information Security**. I am currently training for the **ISC2 Certified in Cybersecurity (CC)** exam (target: May 2027) while working on practical projects in network security and threat detection.
 
-My focus is on building practical skills in defensive security, threat detection, and secure system development to start my career as a Cybersecurity professional.
+My goal is to build a solid foundation in defensive security and start my career as a Cybersecurity professional.
 
 ---
 
@@ -70,13 +70,12 @@ A real-time threat detection platform featuring:
 
 ---
 
-## Professional Development Roadmap
+## Professional Development Goals
 
 - ISC2 Certified in Cybersecurity (CC) — Target: May 2027
-- Advanced Penetration Testing & Red Teaming
-- Malware Analysis & Reverse Engineering
-- Cloud Security Fundamentals (AWS/Azure)
-- DevSecOps Practices
+- Strengthen skills in Network Security & Threat Detection
+- Build more hands-on security projects
+- Improve secure coding and full-stack security practices
 
 ---
 
