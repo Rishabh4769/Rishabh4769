@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://portfolio.rishabhjoshi4205.workers.dev/" target="_blank">
+<a href="https://rishabh-joshi.in/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Site-0EA5E9?style=for-the-badge&labelColor=0F172A" />
 </a>
 <a href="mailto:rishabh.public.mail@gmail.com" target="_blank">
