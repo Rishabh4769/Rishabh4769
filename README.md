@@ -62,20 +62,18 @@ A live packet-capture NIDS built for actual detection, not demos — multithread
 </td>
 <td width="50%" valign="top">
 
-### 🎙️ Veronica
-**Native macOS AI Voice Assistant**
+### 🛰️ NetScope
+**Real-time network monitoring & analysis**
 
-A desktop assistant built from the ground up — voice-driven, natively packaged, and designed to feel like part of the OS rather than a browser tab pretending to be one.
+A real-time network monitoring and analysis tool built in Python — live packet capture, deep inspection, and security anomaly detection.
 
-- 🖥️ Packaged as a standalone `.app` via **py2app**
-- 🎨 Custom **AppKit** menu-bar integration
-- 🌊 Voice-reactive orb + HUD-style transcript UI
-- 🔊 Native `say` TTS with a Flask backend
-- 🚀 LaunchAgent login-item support
+- 📡 Real-time **packet capture** & deep inspection
+- 🛡️ **Security anomaly** detection on live traffic
+- 🐍 Built with **Python**
 
-`React` `Vite` `Flask` `pywebview` `AppKit`
+`Python`
 
-**[→ View Repository](https://github.com/rishabh4769/veronica)**
+**[→ View Repository](https://github.com/Rishabh4769/Projects)**
 
 </td>
 </tr>
