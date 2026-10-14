@@ -1,0 +1,56 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rishabh Joshi — Cybersecurity Builder">
+  <defs>
+    <pattern id="rjb-grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#0a84ff" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="rjb-fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a84ff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0a84ff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="rjb-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0a84ff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0a84ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="#0d1117"/>
+  <rect width="1200" height="320" fill="url(#rjb-grid)"/>
+  <rect width="1200" height="320" fill="url(#rjb-glow)"/>
+
+  <!-- left accent -->
+  <rect x="64" y="72" width="4" height="176" fill="#0a84ff"/>
+  <rect x="64" y="72" width="4" height="176" fill="url(#rjb-fade)" opacity="0.35"/>
+
+  <!-- identity -->
+  <text x="100" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="56" font-weight="700" fill="#f0f6fc" letter-spacing="10">RISHABH JOSHI</text>
+  <text x="102" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#0a84ff" letter-spacing="5">CYBERSECURITY BUILDER</text>
+  <text x="102" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">// I build security systems, not just study them.</text>
+
+  <!-- baseline rule -->
+  <rect x="100" y="262" width="420" height="1" fill="url(#rjb-fade)"/>
+
+  <!-- radar motif -->
+  <g transform="translate(972,160)" fill="none" stroke="#0a84ff">
+    <circle r="104" stroke-opacity="0.22" stroke-width="1"/>
+    <circle r="72" stroke-opacity="0.32" stroke-width="1"/>
+    <circle r="40" stroke-opacity="0.45" stroke-width="1"/>
+    <circle r="4" fill="#0a84ff" stroke="none"/>
+    <line x1="0" y1="0" x2="0" y2="-104" stroke="#64d2ff" stroke-opacity="0.7" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
+    </line>
+    <circle cx="52" cy="-38" r="3" fill="#64d2ff" stroke="none" opacity="0.9">
+      <animate attributeName="opacity" values="0.9;0.15;0.9" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-44" cy="52" r="2.4" fill="#0a84ff" stroke="none" opacity="0.7">
+      <animate attributeName="opacity" values="0.7;0.1;0.7" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- corner ticks -->
+  <g stroke="#0a84ff" stroke-opacity="0.5" stroke-width="1.5">
+    <path d="M 24 44 L 24 24 L 44 24" fill="none"/>
+    <path d="M 1156 24 L 1176 24 L 1176 44" fill="none"/>
+    <path d="M 24 276 L 24 296 L 44 296" fill="none"/>
+    <path d="M 1156 296 L 1176 296 L 1176 276" fill="none"/>
+  </g>
+</svg>
